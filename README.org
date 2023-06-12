@@ -1,0 +1,10 @@
+* docbrowser
+
+Browse Common Lisp docstrings
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/lokedhs/docbrowser.git   |
+| commit  | 236ae92  |
+| systems | docbrowser |
+|---------+-------------------------------------------|
+
