@@ -2,9 +2,8 @@
 
 Browse Common Lisp docstrings
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/lokedhs/docbrowser.git   |
-| commit  | 236ae92  |
-| systems | docbrowser |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/lokedhs/docbrowser.git |
+| commit  | 8c4df85                                       |
+| systems | docbrowser                                    |
+|---------+-----------------------------------------------|
